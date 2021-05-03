@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Kitograph</string>
+    <string name="connect_to_pan">连接云台</string>
+    <string name="connect_to_server">连接服务器</string>
 </resources>
